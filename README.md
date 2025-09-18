@@ -3,6 +3,10 @@
 JWT 인증에서 **화이트리스트(Whitelist)** vs **블랙리스트(Blacklist)** 전략의 효율성을 비교하기 위한 시뮬레이션 도구입니다.  
 사용자 수, 토큰 수명, 세션 수, 로그인/로그아웃 비율 등 다양한 조건을 설정하여 **토큰 관리 방식의 성능 차이**를 시각적으로 분석할 수 있습니다.
 - 이 시뮬레이터는 Claude 대화형 아티팩트를 기반으로 구현되었습니다.
+---
+<img width="500" height="1577" alt="" src="https://github.com/user-attachments/assets/3ce661cf-8b80-41e1-b0ac-ca1c5dc564b9" />
+<img width="500" height="1577" alt="" src="https://github.com/user-attachments/assets/758dcfa3-799c-4568-8a0e-59fa05bc51bd" />
+
 
 ---
 
